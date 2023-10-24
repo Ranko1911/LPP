@@ -1,0 +1,43 @@
+    1  clear
+    2  rvm --version
+    3  rvm info
+    4  clear
+    5  rvm -v
+    6  rvm get stable
+    7  rvm install ruby-2.7
+    8  rvm install ruby-3.0
+    9  clear
+   10  rvm use ruby-3.0
+   11  ruby -v
+   12  irb
+   13  irb helloworld.rb 
+   14  celar
+   15  clear
+   16  irb helloworld.rb 
+   17  clear
+   18  irb helloworld.rb 
+   19  pry
+   20  irb
+   21  irb helloworld.rb 
+   22  clear
+   23  irb helloworld.rb 
+   24  clear
+   25  irb helloworld.rb 
+   26  ruby helloworld.rb 
+   27  irb helloworld.rb 
+   28  clear
+   29  ls
+   30  ll
+   31  ls
+   32  ll
+   33  clear
+   34  irb hello.rb 
+   35  gem install pry
+   36  ruby hello.rb 
+   37  ruby poligono.rb 
+   38  cler
+   39  clear
+   40  ruby poligono.rb 
+   41  clear
+   42  ruby poligono.rb 
+   43  history > comandos.txt
